@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color component renders a Color 1`] = `
+<dl
+  style={
+    Object {
+      "color": "red",
+    }
+  }
+>
+  <dt>
+    Name
+  </dt>
+  <dd>
+    red
+  </dd>
+  <dt>
+    Age
+  </dt>
+  <dd>
+    ff0000
+  </dd>
+  <dt>
+    Weight
+  </dt>
+  <dd>
+    255, 0, 0
+  </dd>
+</dl>
+`;
